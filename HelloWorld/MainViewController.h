@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  HelloWorld
 //
 //  Created by Rehan Sajid on 23/09/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
